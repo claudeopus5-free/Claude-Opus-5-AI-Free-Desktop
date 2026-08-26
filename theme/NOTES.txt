@@ -1,0 +1,3 @@
+# rev-f2a18c-20260826
+Claude Opus 5 Free Desktop — theme notes
+Free MIT client, no Anthropic Pro paywall.
